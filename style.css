@@ -8,28 +8,8 @@ body{
     background-image: url('./img/passphrase-background.jpg');
     background-repeat: no-repeat;
     background-size:cover;
+    height: 100vh;
 /* border: 2px solid red; */
 
 
-}
-.container{
-/* border: 2px solid red; */
-width: 100% !important;
-
-
-}
-.countries{
-    display: flex;
-    flex-wrap: wrap;
-/* border: 2px solid red; */
-width: 100% !important;
-}
-.countries img{
-height: 8rem;
-
-
-}
-
-.card{
-    width: 200px !important;
 }
